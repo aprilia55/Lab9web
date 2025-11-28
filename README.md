@@ -76,7 +76,19 @@ project/
 | username  | VARCHAR |
 | password  | VARCHAR |
 
+**🧰 Teknologi yang Digunakan**
 
+- PHP Native
+
+- MySQL
+
+- HTML & CSS
+
+- XAMPP
+
+- Session Handler
+
+- File Upload Handler
 
 
 
